@@ -23,8 +23,11 @@ Customizable and extensible: Train the model with additional chord samples for i
  ┗ 📜 README.md          # Project documentation  
  
 📊 Model Performance
+
 Training Accuracy: 87%
+
 Test Accuracy: 77%
+
 Note: Performance metrics will improve with a larger dataset.
 
 🛠 How It Works
