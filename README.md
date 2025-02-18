@@ -1,6 +1,7 @@
 🎸 Chord Classification
 🚀 Project Overview
 This project is a deep learning-based chord classification system that identifies musical chords from audio recordings. By leveraging Convolutional Neural Networks (CNNs) and Chroma feature extraction, the model can accurately recognize chords from WAV files.
+![Screenshot 2025-02-19 033312](https://github.com/user-attachments/assets/eb33313d-8bfb-41a7-8551-afd1fd7552dd)
 
 ✨ Features
 Supports a wide range of chords: major, minor, diminished, augmented, 7th, and more.
@@ -8,30 +9,9 @@ Advanced audio processing: Uses Chroma feature extraction for precise chord iden
 Deep learning-powered: Built with Python, TensorFlow/Keras, and Librosa.
 User-friendly interface: Interactive UI with Streamlit for real-time predictions.
 Customizable and extensible: Train the model with additional chord samples for improved accuracy.
-🛠 Installation
-Clone the repository
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/chord-classification.git
-cd chord-classification
-Install dependencies
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Run the Streamlit app
-
-bash
-Copy
-Edit
-streamlit run app.py
 📂 Project Structure
-graphql
-Copy
-Edit
+
 📦 chord-classification
  ┣ 📂 dataset/           # Chord audio samples  
  ┣ 📂 models/            # Trained CNN models  
@@ -41,10 +21,10 @@ Edit
  ┣ 📜 model.py           # CNN model implementation  
  ┣ 📜 requirements.txt   # Dependencies  
  ┗ 📜 README.md          # Project documentation  
+ 
 📊 Model Performance
-Training Accuracy: XX%
-Validation Accuracy: XX%
-Test Accuracy: XX%
+Training Accuracy: 87%
+Test Accuracy: 77%
 Note: Performance metrics will improve with a larger dataset.
 
 🛠 How It Works
@@ -57,3 +37,4 @@ Implement real-time audio input processing.
 Optimize the CNN model for faster inference.
 
 MADE WITH LOVE BY KAVISH :)❤
+
