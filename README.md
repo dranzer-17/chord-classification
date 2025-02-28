@@ -4,6 +4,7 @@ This project is a deep learning-based chord classification system that identifie
 ![Screenshot 2025-02-19 033312](https://github.com/user-attachments/assets/eb33313d-8bfb-41a7-8551-afd1fd7552dd)
 
 ✨ Features
+The dataset is created by myself
 Supports a wide range of chords: major, minor, diminished, augmented, 7th, and more.
 Advanced audio processing: Uses Chroma feature extraction for precise chord identification.
 Deep learning-powered: Built with Python, TensorFlow/Keras, and Librosa.
